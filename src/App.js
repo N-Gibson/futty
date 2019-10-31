@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import { getLeagueMatchDay } from './apiCalls';
 import './App.css';
 
 function App() {
